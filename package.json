@@ -1,0 +1,32 @@
+{
+  "name": "adx-ui",
+  "version": "1.0.0",
+  "description": "React UI component library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "ui"
+  ],
+  "author": "Ali Eskandari",
+  "license": "ISC",
+  "dependencies": {
+    "@headlessui-float/react": "^0.13.2",
+    "@headlessui/react": "^1.7.18",
+    "@heroicons/react": "^2.1.3",
+    "clsx": "^2.1.0",
+    "framer-motion": "^11.0.22",
+    "lodash": "^4.17.21",
+    "numeral": "^2.0.6",
+    "react": "^18.2.0",
+    "tailwind-merge": "^2.2.2",
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.17.0",
+    "@types/numeral": "^2.0.5",
+    "@types/react": "^18.2.73"
+  }
+}
